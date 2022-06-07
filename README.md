@@ -1,6 +1,6 @@
 ### Hi! I'm Ana Clara 👋
 
-- 🌱 I’m currently learning HTML, CSS, and Javascrip
+- 🌱 I’m currently learning HTML, CSS, and Javascript
 - 😄 Pronouns: She/Her
 
 <div align="center">
